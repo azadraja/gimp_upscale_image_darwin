@@ -40,7 +40,7 @@ Follow these steps carefully to install the plugin.
 Open your **Terminal** app and run the following command to download the plugin files:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/azadraja/gimp_upscale_image_darwin.git
 ```
 ### 2. Copy to GIMP's Plug-ins Folder
 
